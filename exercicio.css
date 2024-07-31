@@ -1,0 +1,22 @@
+#cabecalho {
+    background-color: #38040e;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+.container {
+    background-color: #ccc5b9;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container div {
+    background-color: #800e13;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
